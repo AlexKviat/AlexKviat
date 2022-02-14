@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlexKviat
 - 👀 I’m interested in Dart, and new work)
 - 🌱 I’m currently learning Dart/Flutter
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +375259523797, telegram @alexkviat
 
 <!---
